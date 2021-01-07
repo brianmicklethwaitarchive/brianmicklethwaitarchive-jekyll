@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A favourite quotation"
+date:   2021-01-05 12:27:14 +0000
+categories: quotations
+---
+My favourite bad idea, so to speak, is the belief that the truth is obvious. Believe that and you land in a heap of trouble. Just for starters, neither you nor anybody else have any excuse for not recognizing the truth at once, or for ever changing your mind about it. If you disagree with someone, you have to be right (because you have no excuse not to be) and they have to be evil (ditto). Mayhem.
+
+*Samizdata commenter Peter Briffa [quoting](https://www.samizdata.net/2020/12/on-the-british-national-health-service-imbalance-between-lethargic-diagnosis-and-really-rather-good-actual-treatment-of-serious-medical-conditions/#comment-807843) Brian's [Normblog profile](https://normblog.typepad.com/normblog/2007/02/the_normblog_pr_2.html)*
