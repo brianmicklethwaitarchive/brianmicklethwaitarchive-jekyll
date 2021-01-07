@@ -1,0 +1,8 @@
+Build the web site:
+
+export PATH=$PATH:~/.gem/ruby/2.7.0/bin # probably that version number will change
+bundle exec jekyll serve
+
+Test the web site.
+
+Then look in ../firebase/README to see how to deploy.
