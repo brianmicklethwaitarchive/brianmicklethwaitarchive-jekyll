@@ -5,8 +5,11 @@
 layout: page
 ---
 
-Welcome to the Brian Micklethwait Archive. In the coming weeks we will
-be adding writings to this site. For now, here is a collection of other places
+Welcome to the Brian Micklethwait Archive. We have started to add
+writings to this site. For progress on this see the [news](news/)
+section.
+
+Here is a collection of other places
 on the internet where you may find writings by Brian.
 
 - [Brian Micklethwait's New Blog](https://www.brianmicklethwaitsnewblog.com/)
