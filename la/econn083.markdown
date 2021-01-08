@@ -6,6 +6,8 @@ permalink: /la/econn083.html
 
 BRIAN MICKLETHWAIT
 
+First published in 1998.
+
 ## FREEDOM DOESN’T MEAN THE OBLIGATION TO BE PROFITABLE — COOPERATION DOESN’T MEAN COMPELLING OTHERS TO BE COOPERATIVE
 
 We who praise the free market are often accused of believing
