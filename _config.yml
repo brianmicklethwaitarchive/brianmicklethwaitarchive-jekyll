@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Brian Micklethwait Archive
-email: your-email@example.com
+email: brianmicklethwaitarchive@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Brian Micklethwait Archive collects the writings of Brian Micklethwait
   into one convenient web site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: brianmicklethwaitarchive
+github_username:  brianmicklethwaitarchive
 
 # Build settings
 theme: minima
