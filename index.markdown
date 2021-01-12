@@ -6,7 +6,7 @@ layout: page
 ---
 
 Welcome to the Brian Micklethwait Archive. We have started to add
-writings to this site. For progress on this see the [news](news/)
+writings to this site. For progress on this see the [news](news.html)
 section.
 
 Here is a collection of other places
