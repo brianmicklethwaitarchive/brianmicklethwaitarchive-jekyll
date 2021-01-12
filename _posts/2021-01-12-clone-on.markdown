@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Clone on!"
+categories: updates
+---
+We will be slowly adding more pamphlets. Today for your enjoyment, Libertarian Alliance
+Scientific Note number 12, in which Brian argues in favour of
+[human cloning](/la/scien012.html).
+
