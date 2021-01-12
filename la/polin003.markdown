@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For Life, Liberty and Property - The Shifting Centre
+title: The Shifting Centre
 permalink: /la/polin003.html
 ---
 
