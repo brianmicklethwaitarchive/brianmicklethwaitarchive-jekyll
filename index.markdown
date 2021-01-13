@@ -9,6 +9,20 @@ Welcome to the Brian Micklethwait Archive. We have started to add
 writings to this site. For progress on this see the [news](news.html)
 section.
 
+## Latest Update
+
+{% for post in site.posts limit:1 %}
+[{{ post.title }}]({{ post.url }})
+
+{{ post.content }}
+{% endfor %}
+
+## Archives
+
+[Libertarian Alliance Pamphlets](la/)
+
+## Elsewhere
+
 Here is a collection of other places
 on the internet where you may find writings by Brian.
 
