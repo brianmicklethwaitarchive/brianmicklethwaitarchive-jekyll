@@ -20,7 +20,13 @@ First published in 1998 as Linux and free (as in speech) software started to eme
 ## Cultural Notes
 ## Historical Notes
 ## Sociological Notes
+
 ## Educational Notes
+### 29: [On the Harm Done by Look-and-say: A Reaction to Bonnie Macmillan's Why Schoolchildren Can't Read](educn029.html)
+Discussion of the look-and-say method of teaching reading, incredulity
+that such stupidity is countenanced, how this came about and was sustained,
+and what can be done about it.
+
 ## Psychological Notes
 ## Scientific Notes
 
