@@ -35,7 +35,12 @@ Argues in favour of human cloning.
 
 ## Atheist Notes
 ## Religious Notes
+
 ## Tactical Notes
+### 2: [Publish or be Damned](tacn002.html)
+Argues for publishing writing about the intellectual ideas behind libertarianism, as opposed to mere activism.
+Contains commentary on the use of computer networking for publishing from the vantage point of 1988.
+
 ## Foreign Policy Perspectives
 ## LA Pamphlets
 ## Libertarian Reprints
