@@ -47,4 +47,7 @@ Contains commentary on the use of computer networking for publishing from the va
 ## Libertarian Heritage
 ## Study Guides
 ## Personal Perspectives
+### 17: [Losing, Blogging and Winning](persp017.html)
+Tells the story of how Brian met Perry de Havilland and how the libertarian blog Samizdata was founded. It goes on to discuss the difference between being a loser libertarian and being a winner libertarian.
+
 ## Libertarian Fiction
