@@ -41,6 +41,9 @@ Argues in favour of human cloning.
 Argues for publishing writing about the intellectual ideas behind libertarianism, as opposed to mere activism.
 Contains commentary on the use of computer networking for publishing from the vantage point of 1988.
 
+### 7: [The Tyranny of the Facts](tacn007.html)
+Advice about how not to lose arguments by relying on facts.
+
 ## Foreign Policy Perspectives
 ## LA Pamphlets
 ## Libertarian Reprints
