@@ -16,7 +16,11 @@ Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a
 First published in 1998 as Linux and free (as in speech) software started to emerge.
 
 ## Philosophical Notes
+
 ## Legal Notes
+### 21: [The Rule of Law in Britain: Some Editorial Thoughts on Why It is Threatened and How to Rescue It](legan021.html)
+How the rule of law is the antithesis of class warfare and why it must be defended amongst demands for ever more laws to address ever more problems.
+
 ## Cultural Notes
 ## Historical Notes
 ## Sociological Notes
