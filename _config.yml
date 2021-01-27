@@ -36,6 +36,7 @@ plugins:
 header_pages:
   - news.markdown
   - about.markdown
+  - search.markdown
 
 include: ['_pages', '_pages/la']
 
