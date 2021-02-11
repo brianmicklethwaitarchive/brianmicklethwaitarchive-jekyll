@@ -22,6 +22,10 @@ First published in 1998 as Linux and free (as in speech) software started to eme
 How the rule of law is the antithesis of class warfare and why it must be defended amongst demands for ever more laws to address ever more problems.
 
 ## Cultural Notes
+### 2: [Against Art Subsidies](/la/cultn002.html)
+Subsidising art is not only immoral because they force people to pay for other people's hobbies, it is also
+bad for art itself.
+
 ## Historical Notes
 ## Sociological Notes
 ### 27: [Can You Sleep Out All the Year Round? A Conjecture About How Climate Influences Freedom](/la/socin027.html)
@@ -36,6 +40,9 @@ that such stupidity is countenanced, how this came about and was sustained,
 and what can be done about it.
 
 ## Psychological Notes
+### 7: [What the Success Books Say](psycn007.html)
+Describes and summarises advice found in self-help books.
+
 ## Scientific Notes
 
 ### [Clone on!](scien012.html)
