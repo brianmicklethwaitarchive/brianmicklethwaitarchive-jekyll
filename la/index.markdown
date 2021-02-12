@@ -12,6 +12,9 @@ Entertainingly describes the boringness of Ralf Dahrendorf. Published in 1983.
 Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a Libertarian.
 
 ## Economic Notes
+### 68: [The Top Rate of Income Tax Should be Cut to Zero](econn068.html)
+Posits the thought experiment of cutting the top rate of income tax to zero and describes the benefits to rich and poor people (and the state).
+
 ### 83: [Linux! Reflections On Commerce, “Anti-Commerce” and the Owning of Ideas](econn083.html)
 First published in 1998 as Linux and free (as in speech) software started to emerge.
 
