@@ -19,6 +19,8 @@ Posits the thought experiment of cutting the top rate of income tax to zero and 
 First published in 1998 as Linux and free (as in speech) software started to emerge.
 
 ## Philosophical Notes
+### 56: [The Morality of Consequentialism and the Consequences of Morality](philn056.html)
+Why natural rights libertarians are more interested in consequences than they think, and how consequentialist libertarians prefer certain consequences for moral reasons.
 
 ## Legal Notes
 ### 21: [The Rule of Law in Britain: Some Editorial Thoughts on Why It is Threatened and How to Rescue It](legan021.html)
