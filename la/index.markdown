@@ -31,6 +31,9 @@ How the rule of law is the antithesis of class warfare and why it must be defend
 Subsidising art is not only immoral because they force people to pay for other people's hobbies, it is also
 bad for art itself.
 
+### 3: [Freedom, Order and Architecture](/la/cultn003.html)
+How spontaneous order is mistaken for chaos and how imposed order has given way to imposed pseudo-spontaneous order.
+
 ## Historical Notes
 ## Sociological Notes
 ### 27: [Can You Sleep Out All the Year Round? A Conjecture About How Climate Influences Freedom](/la/socin027.html)
