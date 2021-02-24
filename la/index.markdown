@@ -35,6 +35,9 @@ bad for art itself.
 How spontaneous order is mistaken for chaos and how imposed order has given way to imposed pseudo-spontaneous order.
 
 ## Historical Notes
+### [Monty and the Myth of The Unshakeable Plan: How Britain Won the War but Lost the Peace](/la/histn022.html)
+After World War 2, the British percieved that planning was important for success, and duly discovered that planning an economy does not work.
+
 ## Sociological Notes
 ### 27: [Can You Sleep Out All the Year Round? A Conjecture About How Climate Influences Freedom](/la/socin027.html)
 The inability to sleep outside in the winter in cold places means that if you don't follow orders,
