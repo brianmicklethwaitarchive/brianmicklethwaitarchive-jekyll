@@ -28,6 +28,7 @@ on the internet where you may find writings by Brian.
 
 - [Brian Micklethwait's New Blog](https://www.brianmicklethwaitsnewblog.com/)
 - [Contributions to Samizdata](https://www.samizdata.net/author/brian/)
+- [Podcasts with Patrick Crozier](https://croziervision.podbean.com/)
 - [Old blog](http://www.brianmicklethwait.com/)
 - [Culture blog](http://www.brianmicklethwait.com/culture/archives/2003/01/)
 - [Education blog](http://www.brianmicklethwait.com/index.php/education)
