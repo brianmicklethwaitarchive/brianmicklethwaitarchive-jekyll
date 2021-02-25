@@ -9,6 +9,407 @@ Welcome to the Brian Micklethwait Archive. We have started to add
 writings to this site. For progress on this see the [news](news.html)
 section.
 
+<!-- Carousel by Cassidy Williams: https://codepen.io/cassidoo/pen/MyaWzp -->
+<!-- Blockquotes by Andrew Wright: https://codepen.io/andrewwright/pen/Aigre -->
+
+<style type="text/css">
+.content-slider {
+  width: 100%;
+  height: 360px;
+}
+
+.slider {
+  height: 320px;
+  margin: 40px auto 0;
+  overflow: visible;
+  position: relative;
+}
+
+.mask {
+  overflow: hidden;
+  height: 320px;
+}
+
+.slider ul {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.slider li {
+  height: 320px;
+  position: absolute;
+  top: -325px;
+  list-style: none;
+}
+
+.slider .quote {
+  font-size: 40px;
+  font-style: italic;
+}
+
+.slider .source {
+  font-size: 20px;
+  text-align: right;
+}
+
+.slider li.anim1 {
+  animation: cycle 90s linear infinite;
+}
+
+.slider li.anim2 {
+  animation: cycle2 90s linear infinite;
+}
+
+.slider li.anim3 {
+  animation: cycle3 90s linear infinite;
+}
+
+.slider li.anim4 {
+  animation: cycle4 90s linear infinite;
+}
+
+.slider li.anim5 {
+  animation: cycle5 90s linear infinite;
+}
+
+.slider:hover li {
+  animation-play-state: paused;
+}
+
+@keyframes cycle {
+  0% {
+    top: 0px;
+  }
+  4% {
+    top: 0px;
+  }
+  16% {
+    top: 0px;
+    opacity: 1;
+    z-index: 0;
+  }
+  20% {
+    top: 325px;
+    opacity: 0;
+    z-index: 0;
+  }
+  21% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+  50% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+  92% {
+    top: -325px;
+    opacity: 0;
+    z-index: 0;
+  }
+  96% {
+    top: -325px;
+    opacity: 0;
+  }
+  100% {
+    top: 0px;
+    opacity: 1;
+  }
+}
+
+@keyframes cycle2 {
+  0% {
+    top: -325px;
+    opacity: 0;
+  }
+  16% {
+    top: -325px;
+    opacity: 0;
+  }
+  20% {
+    top: 0px;
+    opacity: 1;
+  }
+  24% {
+    top: 0px;
+    opacity: 1;
+  }
+  36% {
+    top: 0px;
+    opacity: 1;
+    z-index: 0;
+  }
+  40% {
+    top: 325px;
+    opacity: 0;
+    z-index: 0;
+  }
+  41% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+  100% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+}
+
+@keyframes cycle3 {
+  0% {
+    top: -325px;
+    opacity: 0;
+  }
+  36% {
+    top: -325px;
+    opacity: 0;
+  }
+  40% {
+    top: 0px;
+    opacity: 1;
+  }
+  44% {
+    top: 0px;
+    opacity: 1;
+  }
+  56% {
+    top: 0px;
+    opacity: 1;
+    z-index: 0;
+  }
+  60% {
+    top: 325px;
+    opacity: 0;
+    z-index: 0;
+  }
+  61% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+  100% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+}
+
+@keyframes cycle4 {
+  0% {
+    top: -325px;
+    opacity: 0;
+  }
+  56% {
+    top: -325px;
+    opacity: 0;
+  }
+  60% {
+    top: 0px;
+    opacity: 1;
+  }
+  64% {
+    top: 0px;
+    opacity: 1;
+  }
+  76% {
+    top: 0px;
+    opacity: 1;
+    z-index: 0;
+  }
+  80% {
+    top: 325px;
+    opacity: 0;
+    z-index: 0;
+  }
+  81% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+  100% {
+    top: -325px;
+    opacity: 0;
+    z-index: -1;
+  }
+}
+
+@keyframes cycle5 {
+  0% {
+    top: -325px;
+    opacity: 0;
+  }
+  76% {
+    top: -325px;
+    opacity: 0;
+  }
+  80% {
+    top: 0px;
+    opacity: 1;
+  }
+  84% {
+    top: 0px;
+    opacity: 1;
+  }
+  96% {
+    top: 0px;
+    opacity: 1;
+    z-index: 0;
+  }
+  100% {
+    top: 325px;
+    opacity: 0;
+    z-index: 0;
+  }
+}
+
+.testimonial-quote {
+    font-size: 14px;
+}
+
+.testimonial-quote blockquote {
+    /* Negate theme styles */
+    border: 0;
+    margin: 0;
+    padding: 0;
+
+    background: none;
+    color: gray;
+    font-family: Georgia, serif;
+    font-size: 1.5em;
+    font-style: italic;
+    line-height: 1.4 !important;
+    margin: 0;
+    position: relative;
+    text-shadow: 0 1px white;
+    z-index: 600;
+}
+
+.testimonial-quote blockquote * {
+    box-sizing: border-box; 
+}
+
+.testimonial-quote blockquote p {
+    color: #75808a; 
+    line-height: 1.4 !important;
+}
+
+.testimonial-quote blockquote p:first-child:before {
+    content: '\201C';
+    color: #81bedb;
+    font-size: 7.5em;
+    font-weight: 700;
+    opacity: .3;
+    position: absolute;
+    top: -.4em;
+    left: -.2em;    
+    text-shadow: none;
+    z-index: -300;
+}
+
+.testimonial-quote cite {
+    color: gray;
+    display: block;
+    font-size: .8em; 
+}
+  
+.testimonial-quote cite span {
+    color: #5e5e5e;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-shadow: 0 1px white; 
+}
+
+.testimonial-quote {
+    position: relative; 
+}
+
+.testimonial-quote .quote-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 16px;
+}
+  
+.testimonial-quote.right cite {
+    text-align: right; 
+}
+</style>
+
+<div class="content-slider">
+  <div class="slider">
+    <div class="mask">
+      <ul>
+        <li class="anim1">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+                <p>If the happiness of the non-rich was the real aim, the non-rich would be allowed to keep their money and spend it as they pleased.</p>
+              </blockquote>  
+              <cite><span><a href="/la/cultn002.html">Against Art Subsidies</a></span><br>
+                1983
+              </cite>
+            </div>
+          </div>
+        </li>
+        <li class="anim2">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+                <p>Yet if pseudo-spontaneous orders are now considered desirable, what is wrong with the real thing?</p>
+              </blockquote>  
+              <cite><span><a href="/la/cultn003.html">Freedom, Order and Architecture</a></span><br>
+                1983
+              </cite>
+            </div>
+	  </div>
+        </li>
+        <li class="anim3">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+                <p>Because of the way we fought the war, or thought that we had fought it, we installed in our minds a model of success which did work militarily, after a fashion, but which could not work economically, and which in due course did not work.</p>
+              </blockquote>  
+              <cite><span><a href="/la/histn022.html">Monty and the Myth of The Unshakeable Plan</a></span><br>
+                1983
+              </cite>
+            </div>
+	  </div>
+        </li>
+        <li class="anim4">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+	        <p>I don’t know about you, but people richer than me getting even richer even faster than me only upsets me if I’m making no progress myself. If my life’s improving, I don’t care at all if the lives of richer people are improving even more. Good luck to them, and here’s hoping I eventually become someone like that myself.</p>
+              </blockquote>  
+              <cite><span><a href="/la/econn068.html">The Top Rate of Income Tax Should be Cut to Zero</a></span><br>
+                1996
+              </cite>
+            </div>
+	  </div>
+        </li>
+        <li class="anim5">
+          <div class="testimonial-quote group">
+            <div class="quote-container">
+              <blockquote>
+	        <p>Only strongly and consistently held opinions get media coverage, because only those who strongly mean what they are saying can spare all that time and trouble to assemble appropriate clutches of The Facts to decorate their opinions and get the media to pay attention.</p>
+              </blockquote>  
+              <cite><span><a href="/la/histn022.html">The Tyranny of Facts</a></span><br>
+                1990
+              </cite>
+            </div>
+	  </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 ## Latest Update
 
 {% for post in site.posts limit:1 %}
