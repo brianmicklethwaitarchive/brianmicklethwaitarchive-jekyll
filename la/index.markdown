@@ -56,7 +56,7 @@ Describes and summarises advice found in self-help books.
 
 ## Scientific Notes
 
-### [Clone on!](scien012.html)
+### 12: [Clone on!](scien012.html)
 Argues in favour of human cloning.
 
 ## Atheist Notes
@@ -80,3 +80,6 @@ Advice about how not to lose arguments by relying on facts.
 Tells the story of how Brian met Perry de Havilland and how the libertarian blog Samizdata was founded. It goes on to discuss the difference between being a loser libertarian and being a winner libertarian.
 
 ## Libertarian Fiction
+### 1: [Those Who Can Do](lific001.html)
+In which we meet struggling writer Eric, who leads by example, shifting the balance of power
+and discovers his true competetive advantage.
