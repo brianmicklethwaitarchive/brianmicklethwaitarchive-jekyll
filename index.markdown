@@ -347,11 +347,11 @@ section.
         <li class="anim1">
           <div class="testimonial-quote group">
             <div class="quote-container">
-              <blockquote>
-                <p>If the happiness of the non-rich was the real aim, the non-rich would be allowed to keep their money and spend it as they pleased.</p>
+	      <blockquote>
+	        <p>Only strongly and consistently held opinions get media coverage, because only those who strongly mean what they are saying can spare all that time and trouble to assemble appropriate clutches of The Facts to decorate their opinions and get the media to pay attention.</p>
               </blockquote>  
-              <cite><span><a href="/la/cultn002.html">Against Art Subsidies</a></span><br>
-                1983
+              <cite><span><a href="/la/histn022.html">The Tyranny of Facts</a></span><br>
+                1990
               </cite>
             </div>
           </div>
@@ -360,9 +360,9 @@ section.
           <div class="testimonial-quote group">
             <div class="quote-container">
               <blockquote>
-                <p>Yet if pseudo-spontaneous orders are now considered desirable, what is wrong with the real thing?</p>
-              </blockquote>  
-              <cite><span><a href="/la/cultn003.html">Freedom, Order and Architecture</a></span><br>
+                <p>If a Philistine is someone who despises a square of canvas painted to look like the bottom of a rubbish skip, then I glory in the title.</p>
+              </blockquote>
+	      <cite><span><a href="/la/cultn002.html">Against Art Subsidies</a></span><br>
                 1983
               </cite>
             </div>
@@ -372,10 +372,10 @@ section.
           <div class="testimonial-quote group">
             <div class="quote-container">
               <blockquote>
-                <p>Because of the way we fought the war, or thought that we had fought it, we installed in our minds a model of success which did work militarily, after a fashion, but which could not work economically, and which in due course did not work.</p>
+                <p>Not only is success largely in the mind. The really good news is that we can control our minds, what we think about, what we imagine, what we tell ourselves, what we <b>feel</b>.</p>
               </blockquote>  
-              <cite><span><a href="/la/histn022.html">Monty and the Myth of The Unshakeable Plan</a></span><br>
-                1983
+              <cite><span><a href="/la/psycn007.html">What the Success Books Say</a></span><br>
+                1992
               </cite>
             </div>
 	  </div>
@@ -384,9 +384,9 @@ section.
           <div class="testimonial-quote group">
             <div class="quote-container">
               <blockquote>
-	        <p>I don’t know about you, but people richer than me getting even richer even faster than me only upsets me if I’m making no progress myself. If my life’s improving, I don’t care at all if the lives of richer people are improving even more. Good luck to them, and here’s hoping I eventually become someone like that myself.</p>
+	        <p>Not for the first time in the history of human conflict, an overwhelmingly superior force delayed the obliteration of its far weaker enemy, on the grounds that this could as easily be done later rather than sooner, and that in the meantime there was some fun to be had.</p>
               </blockquote>  
-              <cite><span><a href="/la/econn068.html">The Top Rate of Income Tax Should be Cut to Zero</a></span><br>
+              <cite><span><a href="/la/lific001.html">Those Who Can Do</a></span><br>
                 1996
               </cite>
             </div>
@@ -396,10 +396,10 @@ section.
           <div class="testimonial-quote group">
             <div class="quote-container">
               <blockquote>
-	        <p>Only strongly and consistently held opinions get media coverage, because only those who strongly mean what they are saying can spare all that time and trouble to assemble appropriate clutches of The Facts to decorate their opinions and get the media to pay attention.</p>
+	        <p>The famous Manhattan skyline is a sky line because land values vary continuously rather than discontinuously, not because any one person ever drew that line.</p>
               </blockquote>  
-              <cite><span><a href="/la/histn022.html">The Tyranny of Facts</a></span><br>
-                1990
+              <cite><span><a href="/la/cultn003.html">Freedom, Order and Architecture</a></span><br>
+                1983
               </cite>
             </div>
 	  </div>
