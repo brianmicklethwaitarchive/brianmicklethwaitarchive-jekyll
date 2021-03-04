@@ -360,10 +360,10 @@ section.
           <div class="testimonial-quote group">
             <div class="quote-container">
               <blockquote>
-                <p>If a Philistine is someone who despises a square of canvas painted to look like the bottom of a rubbish skip, then I glory in the title.</p>
+                <p>The twentieth century’s leading personalities were by no means all of them the movie villains that they’re now presented as. Many of them were trying desperately to do good, and on a huge scale. Their problem was that their notions about how to do good did harm.</p>
               </blockquote>
-	      <cite><span><a href="/la/cultn002.html">Against Art Subsidies</a></span><br>
-                1983
+	      <cite><span><a href="/la/lific003.html">The Lion's Share</a></span><br>
+                2000
               </cite>
             </div>
 	  </div>

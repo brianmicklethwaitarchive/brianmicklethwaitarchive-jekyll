@@ -83,3 +83,6 @@ Tells the story of how Brian met Perry de Havilland and how the libertarian blog
 ### 1: [Those Who Can Do](lific001.html)
 In which we meet struggling writer Eric, who leads by example, shifting the balance of power
 and discovers his true competetive advantage.
+
+### 3: [The Lion's Share](lific003.html)
+The life of Starshine McKane and his evil ambition to murder everyone in the world.
