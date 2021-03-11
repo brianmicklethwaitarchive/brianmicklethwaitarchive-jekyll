@@ -1,5 +1,6 @@
 Build the web site:
 
+python3 generate_quotes.py > _includes/generated_quotes.html
 export PATH=$PATH:~/.gem/ruby/2.7.0/bin # probably that version number will change
 bundle exec jekyll serve
 
