@@ -50,6 +50,9 @@ Discussion of the look-and-say method of teaching reading, incredulity
 that such stupidity is countenanced, how this came about and was sustained,
 and what can be done about it.
 
+### 32: [Kumon!: A Part-Time Maths Teacher Reports From the Newly Emerging Private Sector in Mass Education](/la/educn032.html)
+Brian's foray into private sector maths teaching at a Kumon centre, where difficulty is tailored to each individual student.
+
 ## Psychological Notes
 ### 7: [What the Success Books Say](psycn007.html)
 Describes and summarises advice found in self-help books.

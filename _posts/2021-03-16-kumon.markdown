@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Kumon!"
+categories: updates
+---
+We are (due to some recent behing-the-scenes work recently more than usually) slowly adding more pamphlets. [Educational Notes number 32](/la/educn032.html) describes
+Brian's foray into private sector maths teaching at a Kumon centre, where difficulty is tailored to each individual student.
+
+> Ambition for your children to get ahead educationally is no vice, but it can take the form of pressing your child to do complicated work when simpler procedures have not been fully absorbed. Some parents see (12) 6 + 2 = , and say: my child’s cleverer than that! Give him something more complicated.
+
+> But getting 6 + 2 = 8 most of the time, with maybe an anxious look to an adult face to see if all is well, is a world away from *knowing* that 6 + 2 is 8, with no doubts or hesitations or finger countings, and this difference is the essence of the difference that Kumon makes.
