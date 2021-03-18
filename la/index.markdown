@@ -8,7 +8,7 @@ permalink: /la/
 ### 3: [Dahrendorf on Britain](polin003.html)
 Entertainingly describes the boringness of Ralf Dahrendorf. Published in 1983.
 
-### 181: [I am a libertarian because](polin181.html)
+b### 181: [I am a libertarian because](polin181.html)
 Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a Libertarian.
 
 ## Economic Notes
@@ -72,6 +72,9 @@ Contains commentary on the use of computer networking for publishing from the va
 
 ### 7: [The Tyranny of the Facts](tacn007.html)
 Advice about how not to lose arguments by relying on facts.
+
+### 8: [How to Win the Libertarian Argument](tacn008.html)
+How to spread libertarianism by arguing; not necessarily by winning arguments.
 
 ## Foreign Policy Perspectives
 ## LA Pamphlets
