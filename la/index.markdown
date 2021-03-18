@@ -8,7 +8,7 @@ permalink: /la/
 ### 3: [Dahrendorf on Britain](polin003.html)
 Entertainingly describes the boringness of Ralf Dahrendorf. Published in 1983.
 
-b### 181: [I am a libertarian because](polin181.html)
+### 181: [I am a libertarian because](polin181.html)
 Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a Libertarian.
 
 ## Economic Notes
