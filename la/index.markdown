@@ -77,6 +77,9 @@ Advice about how not to lose arguments by relying on facts.
 How to spread libertarianism by arguing; not necessarily by winning arguments.
 
 ## Foreign Policy Perspectives
+### 2: [Imperialism for Sale](forep002.html)
+Imperialism, whether it matters so much who rules as what the rules are, and how to shop around for rulers.
+
 ## LA Pamphlets
 ## Libertarian Reprints
 ## Libertarian Heritage
