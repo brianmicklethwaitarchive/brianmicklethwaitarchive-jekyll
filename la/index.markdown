@@ -81,6 +81,8 @@ How to spread libertarianism by arguing; not necessarily by winning arguments.
 Imperialism, whether it matters so much who rules as what the rules are, and how to shop around for rulers.
 
 ## LA Pamphlets
+### 6: [Why the Government Should Stop Harassing the Tobacco Trade](lapam006.html)
+
 ## Libertarian Reprints
 ## Libertarian Heritage
 ## Study Guides
