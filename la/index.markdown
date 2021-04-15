@@ -87,6 +87,9 @@ Imperialism, whether it matters so much who rules as what the rules are, and how
 ## Libertarian Heritage
 ## Study Guides
 ## Personal Perspectives
+### 13: [Helping People to do Freedom: Reflections and Recollections of an Occasional Career Counsellor](persp013.html)
+Brian explains his approach to giving people career advice, and in doing so gives a lot of good advice.
+
 ### 17: [Losing, Blogging and Winning](persp017.html)
 Tells the story of how Brian met Perry de Havilland and how the libertarian blog Samizdata was founded. It goes on to discuss the difference between being a loser libertarian and being a winner libertarian.
 
