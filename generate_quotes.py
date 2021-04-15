@@ -1,5 +1,9 @@
 import yaml
 import random
+import sys
+
+
+first_quote_should_contain = sys.argv[1] if len(sys.argv) > 1 else None
 
 quotes_prefix = """
 <!-- Carousel by Cassidy Williams: https://codepen.io/cassidoo/pen/MyaWzp -->
@@ -360,6 +364,12 @@ with open('quotes.yml', 'r') as stream:
     while len(titles_used) < quotes_required and i < num_quotes:
         # get a random quote
         quote = quotes[quote_indexes[i]]
+        while first_quote_should_contain is not None:
+            if first_quote_should_contain not in quote['title']:
+                random.shuffle(quote_indexes)
+                quote = quotes[quote_indexes[i]]
+            else:
+                first_quote_should_contain = None
         i += 1
 
         # make sure it will fit
