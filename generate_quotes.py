@@ -359,7 +359,7 @@ with open('quotes.yml', 'r') as stream:
     quotes_required = 5
     titles_used = set()
     i = 0
-    max_quote_length = 300
+    max_quote_length = 400
     print(quotes_prefix)
     while len(titles_used) < quotes_required and i < num_quotes:
         # get a random quote
