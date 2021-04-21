@@ -8,6 +8,9 @@ permalink: /la/
 ### 3: [Dahrendorf on Britain](polin003.html)
 Entertainingly describes the boringness of Ralf Dahrendorf. Published in 1983.
 
+### 4: [Anarchy vs Anarcho-capitalism](polin004.html)
+Takes on anarchists who are offended by the libertarian concept of anarcho-capitalism.
+
 ### 181: [I am a libertarian because](polin181.html)
 Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a Libertarian.
 
