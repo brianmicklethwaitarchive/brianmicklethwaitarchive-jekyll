@@ -15,6 +15,9 @@ Takes on anarchists who are offended by the libertarian concept of anarcho-capit
 Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a Libertarian.
 
 ## Economic Notes
+### 3: [The Collapse of the Welfare State](econn003.html)
+What would happen to welfare if the welfare state collapses?
+
 ### 68: [The Top Rate of Income Tax Should be Cut to Zero](econn068.html)
 Posits the thought experiment of cutting the top rate of income tax to zero and describes the benefits to rich and poor people (and the state).
 
@@ -37,6 +40,10 @@ bad for art itself.
 ### 3: [Freedom, Order and Architecture](/la/cultn003.html)
 How spontaneous order is mistaken for chaos and how imposed order has given way to imposed pseudo-spontaneous order.
 
+### 7: [Comrade Blimp](/la/cultn007.html)
+Remembers David Low's cartoon [Colonel Blimp](https://en.wikipedia.org/wiki/Colonel_Blimp), notes that the stereotype no longer holds true, and argues that
+many on the left share similar attributes.
+
 ## Historical Notes
 ### [Monty and the Myth of The Unshakeable Plan: How Britain Won the War but Lost the Peace](/la/histn022.html)
 After World War 2, the British percieved that planning was important for success, and duly discovered that planning an economy does not work.
@@ -55,6 +62,9 @@ and what can be done about it.
 
 ### 32: [Kumon!: A Part-Time Maths Teacher Reports From the Newly Emerging Private Sector in Mass Education](/la/educn032.html)
 Brian's foray into private sector maths teaching at a Kumon centre, where difficulty is tailored to each individual student.
+
+### 33: [The Failure of Politics and the Pull of Freedom: Reflections on the Work of the Reading Reform Foundation](educn033.html)
+The tactics of a campaign group attempting to return to teaching reading with synthetic phonics.
 
 ## Psychological Notes
 ### 7: [What the Success Books Say](psycn007.html)
