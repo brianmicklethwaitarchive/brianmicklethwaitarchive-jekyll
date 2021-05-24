@@ -89,6 +89,9 @@ Advice about how not to lose arguments by relying on facts.
 ### 8: [How to Win the Libertarian Argument](tacn008.html)
 How to spread libertarianism by arguing; not necessarily by winning arguments.
 
+### 9: [Publishing Without Perishing](tactn009.html)
+Describes the publishing strategy of the Libertarian Alliance.
+
 ## Foreign Policy Perspectives
 ### 2: [Imperialism for Sale](forep002.html)
 Imperialism, whether it matters so much who rules as what the rules are, and how to shop around for rulers.
