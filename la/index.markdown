@@ -96,6 +96,9 @@ Describes the publishing strategy of the Libertarian Alliance.
 ### 2: [Imperialism for Sale](forep002.html)
 Imperialism, whether it matters so much who rules as what the rules are, and how to shop around for rulers.
 
+### 27: [The End of the Cold War and the New European and British Disuinionism](forep027.html)
+On the inevitability of disunity when there is little reason to unify.
+
 ## LA Pamphlets
 ### 6: [Why the Government Should Stop Harassing the Tobacco Trade](lapam006.html)
 
