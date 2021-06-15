@@ -14,6 +14,9 @@ Takes on anarchists who are offended by the libertarian concept of anarcho-capit
 ### 5: [Liberty Versus Democracy](polin005.html)
 Describes the difference and conflict between these two concepts.
 
+### 8: [Preaching to the Unconverted](/la/polin008.html)
+Attempts to recruit more writers for Political Notes
+
 ### 181: [I am a libertarian because](polin181.html)
 Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a Libertarian.
 
