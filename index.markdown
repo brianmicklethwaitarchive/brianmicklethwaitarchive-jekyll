@@ -11,9 +11,14 @@ section.
 
 {% include generated_quotes.html %}
 
+## Archives
+
+- [Libertarian Alliance Pamphlets](la/)
+- [Blog Highlights](blog-highlights.html)
+
 ## Latest Update
 
-{% for post in site.posts limit:1 %}
+{% for post in site.categories.news limit:1 %}
 [{{ post.title }}]({{ post.url }})
 
 {{ post.content }}
@@ -24,10 +29,6 @@ section.
 In this video, [Steve Baker MP](https://www.stevebaker.info/) recounts how Brian introduced him to books about freedom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gKB0Xt0hIQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Archives
-
-[Libertarian Alliance Pamphlets](la/)
 
 ## Elsewhere
 
