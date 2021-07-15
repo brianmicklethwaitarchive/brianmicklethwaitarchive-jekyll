@@ -17,6 +17,9 @@ Describes the difference and conflict between these two concepts.
 ### 8: [Preaching to the Unconverted](/la/polin008.html)
 Attempts to recruit more writers for Political Notes
 
+### 74: [How and How Not to Achieve Good Taste in Advertising: Free Market Regulation is Better Than Government Regulation](/la/polin074.html)
+Argues in favour of free-market regulation of advertising.
+
 ### 181: [I am a libertarian because](polin181.html)
 Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a Libertarian.
 
