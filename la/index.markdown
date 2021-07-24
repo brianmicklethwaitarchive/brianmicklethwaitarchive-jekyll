@@ -27,6 +27,9 @@ Brian causes a bit of a stir at Exeter University in 1992 explaining why he is a
 ### 3: [The Collapse of the Welfare State](econn003.html)
 What would happen to welfare if the welfare state collapses?
 
+### 36: [The Magic of a Price Rise](econn036.html)
+How increasing prices can improve the product.
+
 ### 68: [The Top Rate of Income Tax Should be Cut to Zero](econn068.html)
 Posits the thought experiment of cutting the top rate of income tax to zero and describes the benefits to rich and poor people (and the state).
 
