@@ -30,6 +30,9 @@ What would happen to welfare if the welfare state collapses?
 ### 36: [The Magic of a Price Rise](econn036.html)
 How increasing prices can improve the product.
 
+### 40: [Against Charity: Charity, Favours, Trade and the Welfare State](/la/econn40.html)
+Trade, not charity, is the correct replacement for the welfare state. Published in 1992.
+
 ### 68: [The Top Rate of Income Tax Should be Cut to Zero](econn068.html)
 Posits the thought experiment of cutting the top rate of income tax to zero and describes the benefits to rich and poor people (and the state).
 
