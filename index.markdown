@@ -5,7 +5,7 @@
 layout: page
 ---
 
-Welcome to the Brian Micklethwait Archive. We have started to add
+Welcome to the Brian Micklethwait Archive. We are slowly adding
 writings to this site. For progress on this see the [news](news.html)
 section.
 
