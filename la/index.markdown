@@ -33,6 +33,9 @@ How increasing prices can improve the product.
 ### 40: [Against Charity: Charity, Favours, Trade and the Welfare State](/la/econn40.html)
 Trade, not charity, is the correct replacement for the welfare state. Published in 1992.
 
+### 58: [The Fixed Quanity of Wealth Fallacy: How to Make Yourself Miserable about the Past, the Present and the Future of Mankind](/la/econn058.html)
+Causes and remedies for the belief that wealth can not be created. Published in 1994.
+
 ### 68: [The Top Rate of Income Tax Should be Cut to Zero](econn068.html)
 Posits the thought experiment of cutting the top rate of income tax to zero and describes the benefits to rich and poor people (and the state).
 
