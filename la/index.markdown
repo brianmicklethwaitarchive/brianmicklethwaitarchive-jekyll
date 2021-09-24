@@ -14,6 +14,9 @@ Takes on anarchists who are offended by the libertarian concept of anarcho-capit
 ### 5: [Liberty Versus Democracy](polin005.html)
 Describes the difference and conflict between these two concepts.
 
+### 6: [Doing Something About Unemployment](polin006.html)
+Describes the political situation in 1983, in particular the issue of unemployment.
+
 ### 8: [Preaching to the Unconverted](/la/polin008.html)
 Attempts to recruit more writers for Political Notes
 
