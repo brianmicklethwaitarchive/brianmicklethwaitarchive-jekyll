@@ -13,6 +13,7 @@ section.
 
 ## Archives
 
+- [About Brian](aboutbrian/)
 - [Libertarian Alliance Pamphlets](la/)
 - [Blog Highlights](blog-highlights.html)
 
