@@ -74,14 +74,14 @@ inspired me and made a difference.
 
 19:29
 
-I met Brian in the late 1990s after discovering him in a book by Tim Evans called Conservative Radicalism. And he'd mentiond Brian Micklethwait and Chris Tame and what he said about them, I thought these sound like interesting people.p
+I met Brian in the late 1990s after discovering him in a book by Tim Evans called Conservative Radicalism. And he'd mentioned Brian Micklethwait and Chris Tame and what he said about them, I thought these sound like interesting people.
 So I did some searching on the internet in a time before Google even existed (no mean feat) and I found a primitive online presence and mentions of something called "Brian's Fridays". So on the last Friday of the month more than twenty
 years ago I ventured to Esterbrooke Street.
 
 I'd been to various Tory gatherings, ostensibly ginger groups but found the weren't to my taste. In the 1990s the purposeful radicalism of the Thatcher years had given way to something very different. It was hard to find
 people who wanted to talk about ideas rather than politics. Brian's Fridays were quite the opposite. People followed politics but what they wanted to talk about was ideas.
 
-I can't remember who was speaking that first time or what the topic was. But what I do remember from that time is that Brian's Fridays attract a wide range of people who are passionate about ideas and then know what they're
+I can't remember who was speaking that first time or what the topic was. But what I do remember from that time is that Brian's Fridays attract a wide range of people who are passionate about ideas and they know what they're
 talking about, and they know how to articulate it. That's why he invites them to be a speaker.
 
 Secondly Brian lets these smart, interesting folk who come and see him say what they want. However he fiercly interjects if anybody interrupts the speaker before question time,
@@ -103,7 +103,7 @@ What made it all possible was that Brian knew how to extract order from Chaos. A
 by having as few rules as possible, enforced with a rod of iron. He understands libertarians, classical liberals, Randians, anarcho-capitalists: in short, he knows how to herd cats.
 
 And as a result, people listened to each other. I certainly had more than a few notions of mine demolished or adjusted by arguing with erudite people I had met in Brian's living room. I absolutely
-changed as a result of this. And the people who met there networked. The realised that contrary to the impression you get from the media there are many people out there who care about ideas
+changed as a result of this. And the people who met there networked. They realised that contrary to the impression you get from the media there are many people out there who care about ideas
 and who are not socialists.
 
 The majority of my social circle are people who I met via Brian, including the person I live with.

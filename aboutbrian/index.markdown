@@ -13,10 +13,13 @@ Please contact [brianmicklethwaitarchive@gmail.com](mailto:brianmicklethwaitarch
 On September 3rd 2021 the Institute of Economic Affairs hosted an event entitled _The Life of Brian: A Reception to Celebrate the Life of Brian Micklethwait_
 in Brian's honour at their headquarters in Lord North Street, London.
 
-At the event, [formal speeches](iea_speeches.html) were given, which I have transcribed.
+At the event, formal speeches were given, which I have transcribed.
 
-Following this, the microphone was passed around and many people spoke about Brian and his influence on their lives. I am in the process of writing down as much
-of these comments as possible.
+Following this, the microphone was passed around and many people spoke about Brian and his influence on their lives. I have begun to write some of these down
+and am in the process of writing down the rest.
+
+ * [IEA event formal speeches](iea_speeches.html)
+ * [IEA event tributes](iea_tributes.html)
 
 
 # Quotes about Brian
