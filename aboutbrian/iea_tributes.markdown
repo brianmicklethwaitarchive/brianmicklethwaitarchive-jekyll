@@ -23,7 +23,7 @@ a fine, fine thing.
 ...please do not feel co-erced in any way ... please do not feel like you have to say something. The fact that you are here [pleases] Brian, but if you want to say
 a few words about how Brian has inspired you put your hands up ... let's start with Tom over here.
 
-## Tom Burroughs
+## Tom Burroughes
 
 53:34
 
