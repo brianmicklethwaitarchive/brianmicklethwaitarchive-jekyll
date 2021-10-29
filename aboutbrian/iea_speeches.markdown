@@ -16,7 +16,78 @@ speeches and comments as I can over the coming days or weeks.
 The recorded audio of this event (to which occasional time stamps herein refer) was distorted, so there are gaps and occasional interpretations. Any innaccuracies are mine.
 
 
+# Brian Micklethwait
+
+I'm just going to say a few words at the beginning. I'm basically here to listen, and wallow in the nice things you're going to say.
+
+3:08
+
+And a final bit of housekeeping, which is thank-you for respecting my wishes about social distancing. I'm being given treatment at the Marsden Hospital. They are desperate to
+keep covid from ... there. ... If they even suspect that I've got a symptom-free case there's every chance that my treatment, which is world-class by the way, could be interrupted.
+
+3:46
+
+When I first got diagnosed with cancer just before last Christmas, the first thing that had to be done was some radiotherapy to stop the cancer spreading to my spine, which was a
+quite severe threat. And when you get given radiotherapy you get given steriods to physically fortify you against the byproducts of the treatment which can be quite dreadful. I had
+a dose of it this morning and I'm glad I'm feeling okay at the moment because they said I might not. But at the moment I'm doing all right.
+
+But steriods are not just a body-protecting drug, they are a mind-altering drug. And under the influence of these steriods, I did something I might well not have done, which was: I said
+to the world exactly what I wanted the world to do for me. You become defiantly selfish, you know. And what I said to my friends, who already knew I had been diagnosed with this problem
+and they all said, "what can we do to help?"
+
+What I said to them was, help is being taken care of. I've got a little circle of friends. Elena. Elena's boyfriend Reid, Tim, Helen, I've probably forgotten some more, Perry de Haviland,
+Adriana. Do you know, there's only so many crates of milk people can buy you. But what you can do is say nice things about what I've said and done over my life. I cannot have enough of that.
+
+...the best sort of praise is unsolicited praise. And if you operate on the level of Mark Littlewood, here, or Sayed or Steve Davis, who's present, well, you'll know all about that because
+you'll be getting daily praise. ... But if you operate at my level, if you don't ask for it, you don't get it! Especially if you're about to die. I mean people are not going to ring you up
+and say, Brian, I hear you're about to die, sorry about that let me tell you some nice things about you before you pop your clogs.
+
+Every since I said that people have been putting comments on blogs, sending emails, ringing me up saying Brian do you remember this or I really liked the way you set about that and I have
+loved all of it. And I'm very grateful to all of you.
+
+6:24
+
+The two most remarkable things that have happened because of this vainglorious appeal... First, the staring of, get this, the Brian Micklethwait Archive, how about that? I never thought there
+was going to be one of those. But it solves a big problem for a writer like me which is that I've never actually done my own editing. I've written lots of good bits down the years... I did a
+nice piece about Chris Tame after I'd been diagnosed which I think reads pretty well. It took me ages to write it but I've finally done it and I've done another couple of things. I did something
+about Steve Davis's book which I think is excellent. And I did the thing about the contrast between the NHS being very bad about identifying your conditions ... it's very difficult, I'm not [blaming]
+GPs for this. But once they know there's something wrong with you, they're very good by comparison. I think it's worth making these distinctions between different kinds of state services. I think
+libertarians are too ready to lump them all in together and say they're all rubbish ... The fact is some state services are really quite good. One of my hobbies is photography, and I can tell you
+that short term weather forecasts have almost hallucinatory accuracy, it's amazing.
+
+8:04
+
+So there's been this steady trickle of praise, and then there's the archive, and then the other thing I wasn't expecting was this, quite frankly. I'm particularly grateful to Sayed for setting it up.
+
+Because as he may remember, I don't know why he should but I certainly do because when Sayed has a disagreement with you and you're you and he's Sayed, you remember it. [We had a disagreement about]
+religion. Let's just say that I don't admire his religion as much as he does. [Syed responded] "I hear you", meaning "no." We parted rather frigidly but politely, and what a dull world it would be
+if we all thought the meaning of life was the same thing ... telling me Jesus Christ died for my sins and because of that I'm going to be looked after by God. It's all bunkum. ... Well, God loves you,
+she said. Well. Okay.
+
+What this event is, is a kind of secular funeral. Which is why I'm particularly grateful to Syed because he's a man of deep religious beliefs. If you think about it, a Church of England burial service
+used to be a congregation gathering together and not talking to anybody in particular, not even to themselves. What they're doing is they're saying to God, look, just to remind you, God, look after this
+person's eternal soul. It all smacked together; it all made sense. And maybe there were a few eulogies to remind God that you were a worthy person of such attention, but the basic story was, God, get on
+and do your job.
+
+But lots of us, definitely including me, as I've made very clear, don't know believe these kinds of things. And the funeral service has therefore kind of lost its clarity. And the eulogy bit, which used to
+be almost an afterthought, has become something a bit odd. I've been to many funerals where I've thought to myself, why do they have to be dead before all this stuff can be said?
+
+[It would be better if] they had been alive to hear it. And I was ruminating that something like this might be rather nice. And then suddenly Syed proposes it! I am amazed. And I am especially grateful
+because his willingness to preside over this secular ceremony is despite him being very deeply religious. So I am particularly touched by that. I'm also touched by the fact that the IEA didn't just say
+yeah, use the room, we'll lay on some nibbles and some drinks. There are actually several IEA heavyweights present right now an I'm very touched by that. I would also like to thank ... Alex and my goddaugter
+who between them ensured that there was a live Zoom feed and a permanent record. And I'm actually fondly hoping that not only will nice things be said but I get some nice surprised tonight. That people
+will say things I really didn't expect to come out. For example I might write a future blog posting saying: yes I did try to do that, thank-you for noticing. I didn't realise anybody had! So that means
+very much to me.
+
+And in general I'd like to thank everybody present for coming. It means a great deal to me. I think that life before death is all there is. And this event will, I'm sure, make the last few moments of my
+life a lot sweeter, a lot easier to bear. ... And I'm deeply grateful to all, whether you say anything or not.
+
+And with that, I got through this as fast as I could, so I'm going to hand over to Mark.
+
+
 # Mark Littlewood
+
+Thank-you so much. I can see you're all choked up; I'm a bit choked as well.
 
 I was going to share a couple of reminiscences about you. [Brian: "You still will."]
 
@@ -148,12 +219,13 @@ And that is a legacy of incalculable value. Thank-you, Brian.
 26:59
 
 One of [Brian's] more irritating habits since getting cancer is being frankly shockingly straightforward and blunt about what is happening to him. He will call out of the blue and say that
-terrible things have happened to him and that he is pleased that at least now he has an explanation or that now he can do X, Y or Z that he is pleased to be doing rather than be just sad [...]
+terrible things have happened to him and that he is pleased that at least now he has an explanation or that now he can do X, Y or Z that he is pleased to be doing rather than be just sad or whatever.
 I'm not sure, to be honest, if this is daft or heroic.
 
 One of the things that we've spoken about is his incredible collection of books. I'm sure many of you might have noticed that he is a bit of a collector of music, mugs and books. Brian has long had
 another strange habit of expressing a great deal of faith in people; sometimes more than they have in themselves. So Brian has placed his faith in me, apparently, to find something useful to do with
-the books in the collection. So I will endeavour, after he's gone, to get them into the hands of people who will read them. Perhaps a few of those people will be steered in the direction of liberty.
+the books in the collection. So I will endeavour, after he's gone, to get them into the hands of people who will read them. Perhaps a few of those people will be steered in the direction of liberty
+and become advocates for liberty as effective as Brian is today.
 
 28:36
 

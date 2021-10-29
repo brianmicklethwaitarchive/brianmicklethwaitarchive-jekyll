@@ -22,7 +22,7 @@ and am in the process of writing down the rest.
  * [IEA event tributes](iea_tributes.html)
 
 
-# Quotes about Brian
+## Quotes about Brian at the event
 
 _You’re the inspiration to make me believe I could really do it._ -- Mark Littlewood, Director General of the Institute of Economic Affairs
 
@@ -31,3 +31,12 @@ _Brian has made a difference. He has inspired all of us, in our different fields
 _So many people have told me their ideas got firmed up as a consequence of attending Brian's Fridays, starting them down a path they might not have otherwise taken. And that is a legacy of incalculable value._ -- Perry de Havilland
 
 _He is the most beautiful mind I have ever known._ -- Professor Tim Evans
+
+
+## Comments about the event
+
+Chris Hartup, wife of Gerald Hartup, former Freedom Association, writes:
+
+"Brian was amazing when he spoke at that meeting, cogent, not forgetting what he was in the middle of saying, and getting to say everything he wanted to, he considered himself one of the most fortunate people ever to manage his final weeks and he felt humbled by so many people turning up ...
+
+At the meeting, he spoke about how truly touched and grateful he was by Syed’s involvement in organising the get together especially since he and Syed had a bit of a fractious relationship full of arguments mainly about religion in general and Syed's in particular."

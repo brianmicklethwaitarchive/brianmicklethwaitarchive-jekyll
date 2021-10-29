@@ -125,7 +125,7 @@ I was glad also I was able to invite you up to my own place in Manchester and I 
 was like being in a live Coronation Street episode. ... I can tell you my wife and my daughter still remember it vividly. It was a wonderful experience. But I can only say that I'm enormously
 grateful I met you had an enormous impression on my life and I'm sure upon the lives of everybody here. And that indeed is your legacy.
 
-## Unknown speaker
+## Gus
 
 1:06:57
 
@@ -139,12 +139,12 @@ reputation of being a sort of a sparky mathematician in the early days, and when
 actually, you [became] deep, deep into architecture. Whatever you were meant to be doing, you were doing something else.
 
 It did work because Cambridge did pick you up to study architecture. At the time my college was quite close to the school of architecture and you used to turn up with a gaggle of
-your architecture student friends. But actually by then architecture had slightly lost its lustre.
+your architectural student friends. But actually by then architecture had slightly lost its lustre.
 
 [...]
 
 But anyway the school of architecture threw you out after a year and you found yourself in Essex. [Brian: I went to Essex.] You went to Essex! You went to Essex by choice.
-... Except of course by the time you got to Essex, there was nothing more fascinating than [Anne Brown?]. And Anne Brown totally absorbed your life. Somehow you survived all of
+... Except of course by the time you got to Essex, there was nothing more fascinating than am-dram. And am-dram totally absorbed your life. Somehow you survived all of
 this but you didn't quite land up with a qualification for any job that you would have been prepared to take on. ... Brian is very good at driving a van, and for some time he
 was delivering [number plates] the length and breadth of Britain.
 
@@ -158,3 +158,60 @@ these directions.
 
 But anyway, Brian, it has always been...  [...] I don't know. You just mention something with Brian and before you know it you're into an intellectual discussion, and you're deeper
 into it than you imagined and it's always fascinating. Many thanks, Brian.
+
+## Sam Bowman
+
+1:11:51
+
+Hi Brian. I met you for the first time ten years ago but twelve years ago I first moved to London. I didn't really know anybody except for Tim Evans ... But I had shared all of your
+Libertarian Alliance pamphlets with all seven Irish libertarians ... you were basically the Saul Alinsky of our world. You talked about tactics, you talked about persuasion and
+organisation. It was so interesting. There were some science fiction elements. The Danger [Menace] of the Apocalyptic Individual was one that I remember; and there were tangible elements
+about how you actually do things.
+
+And when I met you, you were interested in me. And I was just a little ... young guy. You described me as, in a Samizdata post you mentioned me, as a cherubic boy band child-man.
+
+1:13:07
+
+I felt that you were interested in what I had to say and what I thought, and I think probably everybody here feels the same way that you are interested in people for who they are and
+not what their rank is or what their job is or anything like that. I've always been incredibly grateful to you and I've always been incredibly grateful for having met you and for
+having gone to some of the Fridays, and spoken at one of the Fridays. Thank-you very much.
+
+## Nick [C?]
+
+1:13:45
+
+I'm Nick [C?]. I first met Brian in 2006. Some of you may recall New Labour banned the production of humorous anecdotes in 2003 and were still kind of enforcing it around then. So
+unfortunately I haven't got one. But it was at the National Liberal Club, it was one of the Libertarian Alliance conferences and it was quite transformative. And in absence of
+anecdotes I'll just say three things that Brian has taught me.
+
+I know they're all themes that have been discussed already but I think the first thing is the importance of scribbling. Keep scribbling. Don't let the enemy determine your
+momentum: push your ideas out there. The second one is hospitality. The importance of having a place where like-minded people, or perhaps not quite so like-minded, will meet
+and discuss ideas and be that kind of focal point.
+
+And the third is a willingness to get almost anywhere quickly. If there are six or so libertarian-inclined students who might be willing to speak to you as Brian did on many
+occasions. One time when he came down to Oxford to speak to just a small audience of potential libertarians there.
+
+So thank-you, Brian. Thank-you for being here tonight. I don't think this is a selfish move on your part at all. It's actually very generous of you to take time out now to
+allow us to say these to you. It's actually very valuable for us. It's so great that you can be here now for us.
+
+
+## Unkown speaker
+
+1:15:41
+
+For me you're a sort of updated ... version of Madame de Staël the great salonniere, a completely unique figure, a historical figure ... At one of your salons I met the Lord Kamal as he must
+now be referred to ... The second thing I'm going to mention, you're obviously a great prophelytiser for the movement, a great intellectual of the movement, but there's one pamphlet, which
+provided me with a sort of later-life security blanket about thirty years ago entitled ... I am a Libertarian Because. And it's not just a brilliant encapsulation ... it also captures Brian's
+incredible wit. Let me just give you a couple of examples.
+
+"I am a libertarian because I honestly and truly don't care what other people do to each other in bed," ... and this is the bit that I like, "where I am not regularly present."
+
+"I am a libertarian because an armed society is a polite society."
+
+"...because there isn't enough sex and violence on television."
+
+"...because newspapers should be allowed to publish lies, filth, nonsense and tastelessness. Even the Guardian should be allowed."
+
+"...because I'm the editorial director of the Libertarian Alliance and stopping being a libertarian would be inconvenient."
+
+Thank-you.
