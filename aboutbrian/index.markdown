@@ -30,6 +30,12 @@ _Brian has made a difference. He has inspired all of us, in our different fields
 
 _So many people have told me their ideas got firmed up as a consequence of attending Brian's Fridays, starting them down a path they might not have otherwise taken. And that is a legacy of incalculable value._ -- Perry de Havilland
 
+_In footballing terms he's the guy that's training the players at grass-roots level and getting them all started and encouraging them._ -- Dominic Frisby
+
+_As you know I tend to make my own mind up about things. But you did persuade me that maybe I wasn't mad. And if I was mad, that I wasn't alone._ -- Guy Herbert
+
+_You were basically the Saul Alinsky of our world._ -- Sam Bowman
+
 _He is the most beautiful mind I have ever known._ -- Professor Tim Evans
 
 

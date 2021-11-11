@@ -199,7 +199,7 @@ allow us to say these to you. It's actually very valuable for us. It's so great 
 
 1:15:41
 
-For me you're a sort of updated ... version of Madame de Staël the great salonniere, a completely unique figure, a historical figure ... At one of your salons I met the Lord Kamal as he must
+For me you're a sort of updated cis-male version of Madame de Staël the great salonniere, a completely unique figure, a historical figure ... At one of your salons I met the Lord Kamal as he must
 now be referred to ... The second thing I'm going to mention, you're obviously a great prophelytiser for the movement, a great intellectual of the movement, but there's one pamphlet, which
 provided me with a sort of later-life security blanket about thirty years ago entitled ... I am a Libertarian Because. And it's not just a brilliant encapsulation ... it also captures Brian's
 incredible wit. Let me just give you a couple of examples.
@@ -215,3 +215,99 @@ incredible wit. Let me just give you a couple of examples.
 "...because I'm the editorial director of the Libertarian Alliance and stopping being a libertarian would be inconvenient."
 
 Thank-you.
+
+## Unknown speaker
+
+1:17:37
+
+I first met Brian during my second year at the University of York. ... I put together a conference ...
+
+1:18:22
+
+...Brian pretty much refereed it, and over the years ... he volunteered to do conferences and events around the country for us. And you were brilliant.
+
+But what really struck me was doing the pamphleteering because you immortalised me by [publishing] my pamphlets, Brian.
+
+1:19:00
+
+...book references are really important for the next generation. ... it's been referenced throughout the world in phD dissertations and so on.
+
+I want to say thank you Brian ... for pushing the right things to do and helping us immortalise ourselves in other people's work, and getting those ideas out.
+
+So thank-you so much, Brian for all your efforts.
+
+## Unknown speaker
+
+1:19:45
+
+Thank-you. It's very difficult to add anything to the very many things that have been said. But a couple of ... spring to mind that I think you'd like to hear.
+
+So many of you have said how you sought Brian out. I first met Brian unwillingly rather. I was a Tory boy like very much the same story as Tim told, and was
+dragged along to one of Brian's Fridays by I think a friend of [???] actually from York. A chap called Andrew; I can't remember his [last] name.
+
+As soon as I was in that room I realised I was in a dangerous place with dangerous people. Any chance that I was going to have - delusions I had then of a political career
+were not going to survive being known to associate with such people and being touched by their ideas. And lo and behold I quickly gave up on foolish ideas of politics
+and started being infected with all the ideas that I learnt at Brian's Fridays.
+
+It may have destroyed my ideas of a career in retrospect, but ultimately I ended up in some small way in the world of ideas, working for trade associations and things
+where I adopted some of Brian's other advice, which is that you can actually achieve an awful lot - I know this has been said before but Brian was the one who told me -
+that you can achieve an awful lot if you let someone else have the credit. And that's very good advice to anyone working for trade associations.
+
+And it may seem counterintuitive at the moment and maybe to those who ... as modesty. Because when it comes down to it, Brian has been there not building up his own
+career and his own fame and his own aggrandisment. He's been out there pushing us to learn more and to think more clearly and to go on and do things.
+
+And that is actually a ... modesty which is rather at odds with the appearance of being quite happy to have everyone say, what a good job.
+
+It was a good job, Brian. Well done.
+
+## Unknown speaker
+
+1:22:29
+
+Brian, I'm going to add to the number of people you've been compared to this evening because I consider you a kind of libertarian Dumbledore.
+
+I can't pinpoint when you arrived in my life, I think probably a few years ago and magically in Dumbledore style. I [would] often take you
+to Costa Coffee and ply you with coffee and croissants and talk through everything from Field Marshall Montgomery to ... house building to
+relationships - Brian's actually quite a good relationship guru ...
+
+You've been very much an intellectual troubleshooter for me as well. Someone I could go to for wisdom and advice. A couple of years ago I was
+offered a couple of [lectures?] for the Chinese government. I was toying it thinking I'm not sure, the money's good, but they're probably scum so
+what can you do?
+
+I sat with Brian and said I'm not sure what to do. I'm thinking of turning it down. He said, you never know who's going to hear what you say.
+They can't unhear what you've heard. And you never know how high they could rise within the Communist government there, and they may then
+take your ideas forward and change things within their state. You never know how far those ripples will go out.
+
+So thank-you so much Brian, and to be honest I'm gutted that I don't get to have any more of those coffees with you. It's been a great
+privilege and honour.
+
+## Guy Herbert
+
+1:24:20
+
+Brian I first met you in about 2008 through Perry de Haviland ...
+
+A little word for pamphlets: your name was very familiar to me. Because 35 years ago I was living in the back of beyond in deepest darkest Suffolk.
+And I didn't know anybody. I read a few books and maybe like Tom, maybe the same advertisment, I saw an advertisment for the Alternative Bookshop
+in the Spectator. And I ordered some stuff by mail order. ... And among those things that I ordered was ...
+
+1:25:09
+
+...a set of pamphlets by Brian Micklethwait. So your name had been very very familiar. They didn't persuade me of anything, necessarily. As you know
+I tend to make my own mind up about things. But you did persuade me that maybe I wasn't mad. And if I was mad, that I wasn't alone.
+
+## Syed Kamal
+
+1:25:45
+
+Just to bring formal proceedings to an end we're going to ask Brian to say a few words.
+
+## Brian Micklethwait
+
+Well, very few words. Basically I came here to wallow in ...
+
+1:26:11
+
+It's greatly appreciated.
+
+
