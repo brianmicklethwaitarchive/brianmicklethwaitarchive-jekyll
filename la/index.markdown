@@ -113,6 +113,9 @@ How to spread libertarianism by arguing; not necessarily by winning arguments.
 ### 9: [Publishing Without Perishing](tactn009.html)
 Describes the publishing strategy of the Libertarian Alliance.
 
+### 11: [A Message to All Would Be Libertarian Alliance Writers on the Vital Importance of Supplying Completely Accurate FOOTNOTES](tacn011.html)
+Brian very much wants contributors to the Libertarian Alliance to properly footnote their work.
+
 ## Foreign Policy Perspectives
 ### 2: [Imperialism for Sale](forep002.html)
 Imperialism, whether it matters so much who rules as what the rules are, and how to shop around for rulers.
