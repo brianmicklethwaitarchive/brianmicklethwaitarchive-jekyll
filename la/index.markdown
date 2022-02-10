@@ -20,6 +20,9 @@ Describes the political situation in 1983, in particular the issue of unemployme
 ### 8: [Preaching to the Unconverted](/la/polin008.html)
 Attempts to recruit more writers for Political Notes
 
+### 12: [Getting to the Political Parties](/la/polin012.html)
+How libertarian ideas are affecting political parties in 1985.
+
 ### 74: [How and How Not to Achieve Good Taste in Advertising: Free Market Regulation is Better Than Government Regulation](/la/polin074.html)
 Argues in favour of free-market regulation of advertising.
 
