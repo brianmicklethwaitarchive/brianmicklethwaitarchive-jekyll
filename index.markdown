@@ -44,6 +44,7 @@ on the internet where you may find writings by Brian.
 - [Education blog](http://www.brianmicklethwait.com/index.php/education)
 - [Libertarian Alliance pamphlets](http://www.libertarian.co.uk/lapubs/pubindex.htm)
 - [Normblog profile](https://normblog.typepad.com/normblog/2007/02/the_normblog_pr_2.html)
+- [Brian's library](https://www.libib.com/u/sjgibbs/l/1303003)
 
 ### Video
 - [Channel 4 Documentary](https://youtu.be/Hhmog-5plwo?t=1384): 'If I were Prime Minister' with Chris Tame

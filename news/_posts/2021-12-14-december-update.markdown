@@ -8,7 +8,7 @@ in which his friends were invited to help themselves to his enormous
 collection of books. The books are being catalogued. So far it is mostly
 the books that were taken on that night that have been added to the catalogue
 but the plan is to add them all. The catalogue so far can be
-[viewed on libib](https://sjgibbs.libib.com/i/brian-micklethwaits-library).
+[viewed on libib](https://www.libib.com/u/sjgibbs/l/1303003).
 
 Meanwhile, we continue to add Libertarian Alliance pamphlets written by Brian. The latest one very much brings to mind
 Brian at his grumpiest, which is to say with a slight twinkle in his eye. You knew he meant very seriously what he was saying,
