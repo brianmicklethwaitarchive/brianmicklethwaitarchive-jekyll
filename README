@@ -1,9 +1,9 @@
 Build the web site:
 
-python3 generate_quotes.py [title of article for first quote] > _includes/generated_quotes.html
-export PATH=$PATH:~/.gem/ruby/3.0.0/bin # probably that version number will change
+nix develop
+uv run generate_quotes.py [title of article for first quote] > _includes/generated_quotes.html
 bundle exec jekyll serve
 
 Test the web site.
 
-Then look in ../firebase/README to see how to deploy.
+Then look in ../brianmicklethwaitarchive-deploy/README to see how to deploy.

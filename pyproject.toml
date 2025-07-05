@@ -1,0 +1,9 @@
+[project]
+name = "brianmicklethwaitarchive-jekyll"
+version = "0.1.0"
+description = "Brian Micklethwait Archive static web site Python scripts"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pyaml>=25.5.0",
+]
