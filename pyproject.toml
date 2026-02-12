@@ -5,5 +5,6 @@ description = "Brian Micklethwait Archive static web site Python scripts"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "marker-pdf>=1.8.1",
     "pyaml>=25.5.0",
 ]
