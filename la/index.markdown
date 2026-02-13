@@ -68,6 +68,9 @@ How spontaneous order is mistaken for chaos and how imposed order has given way 
 Remembers David Low's cartoon [Colonel Blimp](https://en.wikipedia.org/wiki/Colonel_Blimp), notes that the stereotype no longer holds true, and argues that
 many on the left share similar attributes.
 
+### 15: [Design as Outcome](/la/cultn015.html)
+Notices that design is an iterative process driven by outcomes, more closely related to spontaneous order than Hayek implied.
+
 ## Historical Notes
 ### [Monty and the Myth of The Unshakeable Plan: How Britain Won the War but Lost the Peace](/la/histn022.html)
 After World War 2, the British percieved that planning was important for success, and duly discovered that planning an economy does not work.
